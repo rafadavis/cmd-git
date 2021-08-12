@@ -12,3 +12,6 @@ This is a syllabus for the History of Latin America course.
 
 - Machuca
 - The Battle of Chile
+
+
+# whatever, I don't care
